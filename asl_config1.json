@@ -1,0 +1,8 @@
+{
+	"org"        : "srilamaiti",
+	"repo"       : "fall_2023_210_capstone_deepika_srila",
+	"branch"     : "main",
+	"asl_folder" : "data/asl_curated_dataset",
+	"token"      : "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",
+	"prefix"     : "https://raw.githubusercontent.com"
+}
